@@ -1,4 +1,4 @@
-# RLogo-T-Shirt
+# RLogo T-Shirt
 ## R script to design a T-shirt
 
 This script was used to promote identity and motivation of students attending an R course at the University of Valencia. 
