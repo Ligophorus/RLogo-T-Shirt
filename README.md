@@ -3,8 +3,10 @@
 
 This script was used to promote identity and motivation of students attending an R course at the University of Valencia. 
 
-It requires library EBImage from Bioconductor.
-To install EBImage, install the latest release of R and enter the commands
+The R logo image required (Rlogo.png) can be downloaded from https://www.r-project.org/logo/
+
+The script also requires library EBImage from Bioconductor.
+To install EBImage, update to the latest release and enter the commands
 ``` 
 install.packages("BiocManager") 
 BiocManager::install("EBImage")
