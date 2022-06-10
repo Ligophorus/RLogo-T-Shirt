@@ -4,7 +4,7 @@ library(EBImage)
 set.seed(2020) # seed for randomization 
 
 # load the R logo and save the rgb values:
-img <- readImage("Rlogo2020.png")
+img <- readImage("Rlogo.png")
 img.2 <- img[,,1:3]
  
 # count nº R packages available now in CRAN
